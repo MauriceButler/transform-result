@@ -1,0 +1,28 @@
+{
+  "name": "transform-result",
+  "version": "1.0.0",
+  "description": "Run an arbitrary transform over a functions result if there is no error",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/transform-result.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/transform-result/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/transform-result#readme",
+  "keywords": [
+    "transform",
+    "result",
+    "callback",
+    "cherrypick"
+  ],
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
