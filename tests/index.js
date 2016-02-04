@@ -29,7 +29,7 @@ test('transformResult handles error', function (t) {
     target(testError);
 });
 
-test('transformResult runs transformResult and calls back', function (t) {
+test('transformResult runs transform and calls back', function (t) {
     t.plan(3);
 
     var testData = {
