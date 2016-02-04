@@ -1,6 +1,6 @@
 {
   "name": "transform-result",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run an arbitrary transform over a functions result if there is no error",
   "main": "index.js",
   "scripts": {
